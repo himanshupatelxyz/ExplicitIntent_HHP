@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExplicitIntent_HHP</string>
+    <string name="button_main">Send</string>
+    <string name="secondActivity_name">SecondActivity</string>
+</resources>
